@@ -1,0 +1,21 @@
+C:\Users\Eslam Hamouda Ali\source\repos\Library System\Library System\bin\Debug\net6.0-windows\Library System.exe
+C:\Users\Eslam Hamouda Ali\source\repos\Library System\Library System\bin\Debug\net6.0-windows\Library System.deps.json
+C:\Users\Eslam Hamouda Ali\source\repos\Library System\Library System\bin\Debug\net6.0-windows\Library System.runtimeconfig.json
+C:\Users\Eslam Hamouda Ali\source\repos\Library System\Library System\bin\Debug\net6.0-windows\Library System.dll
+C:\Users\Eslam Hamouda Ali\source\repos\Library System\Library System\bin\Debug\net6.0-windows\Library System.pdb
+C:\Users\Eslam Hamouda Ali\source\repos\Library System\Library System\obj\Debug\net6.0-windows\Library System.csproj.AssemblyReference.cache
+C:\Users\Eslam Hamouda Ali\source\repos\Library System\Library System\obj\Debug\net6.0-windows\Library_System.Form1.resources
+C:\Users\Eslam Hamouda Ali\source\repos\Library System\Library System\obj\Debug\net6.0-windows\Library System.csproj.GenerateResource.cache
+C:\Users\Eslam Hamouda Ali\source\repos\Library System\Library System\obj\Debug\net6.0-windows\Library System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eslam Hamouda Ali\source\repos\Library System\Library System\obj\Debug\net6.0-windows\Library System.AssemblyInfoInputs.cache
+C:\Users\Eslam Hamouda Ali\source\repos\Library System\Library System\obj\Debug\net6.0-windows\Library System.AssemblyInfo.cs
+C:\Users\Eslam Hamouda Ali\source\repos\Library System\Library System\obj\Debug\net6.0-windows\Library System.csproj.CoreCompileInputs.cache
+C:\Users\Eslam Hamouda Ali\source\repos\Library System\Library System\obj\Debug\net6.0-windows\Library System.dll
+C:\Users\Eslam Hamouda Ali\source\repos\Library System\Library System\obj\Debug\net6.0-windows\refint\Library System.dll
+C:\Users\Eslam Hamouda Ali\source\repos\Library System\Library System\obj\Debug\net6.0-windows\Library System.pdb
+C:\Users\Eslam Hamouda Ali\source\repos\Library System\Library System\obj\Debug\net6.0-windows\Library System.genruntimeconfig.cache
+C:\Users\Eslam Hamouda Ali\source\repos\Library System\Library System\obj\Debug\net6.0-windows\ref\Library System.dll
+C:\Users\Eslam Hamouda Ali\source\repos\Library System\Library System\obj\Debug\net6.0-windows\Library_System.Form2.resources
+C:\Users\Eslam Hamouda Ali\source\repos\Library System\Library System\obj\Debug\net6.0-windows\Library_System.Form3.resources
+C:\Users\Eslam Hamouda Ali\source\repos\Library System\Library System\obj\Debug\net6.0-windows\Library_System.Form4.resources
+C:\Users\Eslam Hamouda Ali\source\repos\Library System\Library System\obj\Debug\net6.0-windows\Library_System.Form5.resources
